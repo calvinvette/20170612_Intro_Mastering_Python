@@ -82,11 +82,23 @@ Download Anaconda
 Built-in Python 2.7 for MacOs & Linux - doesn't support Python 3.x code
 
 
+Chapter 2 lab and Lunch until 2:30 Eastern/11:30 Pacific.
 
 
 
+Chapter 3 exercises + Break until 4:55 Eastern / 1:55 Pacific
+(Approximately - please let me know in a private chat when you're done
+or ready to move on).
 
-	
+
+c:\python36\python.exe -i c:\py3workspace\ch3\c2f.py 212 F
+
+Chapter 4 exercises until 10am Eastern
+    I'll be here until just before 6pm
+    I'll be back at least at 9:30 am
+
+    Take off when you're done for the day.
+    Have a great night!
 
 
 
