@@ -1,0 +1,3 @@
+This is a repo for the notes and demos in the June 12, 2017 Intro and Mastering Python courses...
+
+

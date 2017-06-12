@@ -1,0 +1,94 @@
+Calvin Vette, RHCE, JCEA, CSM
+calvin.vette@triveratech.com
++1 248-894-4913 Text
+
+
+
+10am-6pm Eastern / 7am-3pm Pacific
+11:45ish - 10-15 minute break
+1:30-2:30 Lunch (approximately)
+4:15ish - 10-15 minute break
+6pm-end of class
+
+
+
+First Name (except Erics)
+Project/Department
+Experience in programming, esp if you've done Python before
+Expectations
+
+
+
+
+Hash-she-bang
+#!/usr/bin/env python
+
+
+#!/usr/bin/python
+#!/usr/bin/python3
+
+
+
+
+
+Break until 11:50E/8:50P
+
+
+
+
+Disadvantages of Python (apparently blank slide):
+
+	* 2.x vs. 3.x breakage (python vs. python3, pip vs. pip3)
+	* Spaces instead of braces (and/or tabs... grrr...)
+
+	function foo() {
+		console.log("foo");
+	}
+
+
+def foo:
+    print "foo"
+print "bar"
+
+
+	* Not all modules compile on all platforms
+		Esp. more exotic things CUDA/OpenCL/DSP/FPGA, device drivers
+
+
+
+How to Get Python
+Manual Compile:
+	0. Windows users - download Cygwin to do this (make sure you install at least bash, tar, make, mingw gcc/g++, and md5sum)
+	1. DO NOT RUN AS ROOT
+	2. download tarball. (Go to python.org download section, select the version you want, then find the 
+		"GZipped Tarball"
+		3.6.1: https://www.python.org/ftp/python/3.6.1/Python-3.6.1.tgz
+	3. Verify the MD5 sum
+		Make sure it matches the md5sum for the version you downloaded on the website
+		md5sum Python-3.6.1.tgz
+		Should give you: 2d0fc9f3a5940707590e07f03ecb08b9
+	4. Extract
+	5. ./configure
+	6. make
+	7. sudo make install
+		For windows users, open a command prompt with "Run As Administrator" and do the make install.
+
+Download pre-built binaries
+	https://www.python.org/ downloads section
+
+Download Anaconda
+	https://www.continuum.io/downloads
+
+Built-in Python 2.7 for MacOs & Linux - doesn't support Python 3.x code
+
+
+
+
+
+
+	
+
+
+
+
+
