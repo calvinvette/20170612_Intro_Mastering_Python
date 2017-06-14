@@ -16,3 +16,30 @@ Time Permitting:
 
 Lab 8 + break until 11:45E/8:45P
 Please let me know when you're done or ready to move on in the chat log :-)
+
+
+Labs for Ch 9 + 10 + Lunch until about 3:10
+I'll be here almost the entire time. Feel free to ask questions.
+If I don't respond right away, try the chat - I'll probably be back in just a few minutes.
+Please let me know when you're done with Lab 9 in the chat log
+Separately, please let me know when you're done with Lab 10 in the chat log :-)
+
+
+Just a few more minutes for folks to wrap up or find a convenient stopping point then we'll get started at 3:20
+
+
+
+Then I'll cover pip and some key libraries
+
+
+You're welcome to do labs as long as you'd like, even while I'm
+talking about pip and friends. I'll be here late working
+on my own stuff and won't close the session until after everyone
+else has left. I'll be available to help if you need/want it.
+
+If you only have time for one lab, do Lab 12
+
+You're all invited to come back tomorrow morning as well to finish
+off labs and/or go through the debrief.
+
+
