@@ -40,12 +40,16 @@ Once you've done these installs, download the nltk data sets:
     python -c "import nltk; nltk.download('all')"
 
 Requests is an HTTP library, great for REST requests. 
+http://www.python-requests.org/en/master/
+
 Scrapy helps web page scraping
+https://scrapy.org/
 
 	pip install requests
 	pip install scrapy
 
 Pillow is a fork of the PIL - Python Imaging Library. You can parse and manipulate most graphic file formats with this library, including using the numerical data as a 2-dimensional array. Many vision-based machine learning systems will use either PIL or Pillow.
+https://python-pillow.org/
 
 	pip install pillow
 
@@ -53,7 +57,10 @@ Nose is a Unit Testing Framework for Python. Professional developers test their 
 
     pip install nose
     
-Paramiko
+Paramiko is an SSH/SFTP/SCP library
+http://www.paramiko.org/
+
+    pip install paramiko
 
 SymPy is a symbolic math library
 
