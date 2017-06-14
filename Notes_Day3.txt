@@ -1,0 +1,19 @@
+Today's Agenda
+
+Chapter 8 - Functions
+Chapter 9 - Sorting
+Chapter 10 - Errors/Exceptions
+Chapter 11 - Modules
+Chapter 12 - Classes
+
+Time Permitting:
+    Popular 3rd-Party libraries
+    Getting started with:
+        Pandas
+        NumPy
+    Other requests
+
+
+
+Lab 8 + break until 11:45E/8:45P
+
