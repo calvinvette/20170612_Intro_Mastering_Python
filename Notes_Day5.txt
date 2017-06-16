@@ -1,0 +1,54 @@
+Break + Lab 17 until 11:55
+Let me know in the chat log when you're done.
+If everyone's done early, we'll move on early.
+Make sure you get your break though.
+
+Let me know if you have questions or need help.
+Muted for now.
+
+
+
+HTTP Requests
+GET - for idempotent reads, data is bookmarkable, limited to URL_LENGTH (2k)
+POST - for submitting data
+	Data is in HTTP Body, not bookmarkable
+	No imposed limit on data
+	Can include encoded binary files (in multipart form)
+	In HTML5/REST paradigm, is used to INSERT data
+PUT - like POST, but used in HTML5/REST for UPDATEing data
+DELETE - like POST, but used in HTML5/REST for DELETEing data
+
+Basic CRUD functions
+Create == POST == INSERT
+Read == GET == SELECT
+Update == PUT == UPDATE
+Delete == DELETE == DELETE
+
+Other HTTP verbs include OPTIONS, HEAD, TRACE, PATCH, ...
+
+All HTTP Utilities (including browsers) default to GET unless explicitly
+told otherwise
+	curl, wget
+	XHR (AJAX) in browsers
+	Python urllib.request
+	Python requests module (pip install requests)
+	All other language libraries
+
+
+Request-Response Cycle
+Request has Header & Body
+Response has Header & Body
+Header includes URL, cookies, 
+	HTTP Headers (Content-Type, Accept, Accept-Language, etc.)
+	Transfer-Encoding,
+
+
+Don't use FTP - use Paramiko SFTP
+Wherever possible, use private key/public key authentication (not password-based)
+Windows SSH equivalent is "winrs" (is it encrypted???)
+
+Lunch + Lab 18 until 3:05
+
+
+
+

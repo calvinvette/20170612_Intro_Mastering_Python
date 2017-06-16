@@ -1,0 +1,53 @@
+
+spam
+spam
+spam
+spam
+eggs
+spam
+spam
+eggs
+spam
+spam
+spam
+crumpets
+spam
+eggs
+
+spam212-555-1212eggs
+spam spam spam spam 212 555 1212eggs
+2125551212
+12125551212
+212.555.1212
+1-212-555-1212
+1 (212) 555-1212
+1.212.555.1212
++1 (212) 555-1212
+312-731-9331
+312 731 9331
+3127319331
+13127319331
+312.731.9331
+1-312-731-9331
+1 (312) 731-9331
+1.312.731.9331
++1 (312) 731-9331
+
++44 0206 946 0784
++44 020 7946 0784
+
+[:digit:]
+spam
+spam
+spam
+spam
+eggs
+spam
+spam
+eggs
+spam
+spam
+spam
+crumpets
+spam
+eggs

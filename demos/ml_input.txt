@@ -1,0 +1,28 @@
+<stmt>
+Account1
+Page 1
+Balance
+Date
+<hdr>
+<stmt>
+Account2
+Page 2
+Balance
+Date
+<hdr><stmt>
+Account1
+Page 3
+Balance
+Date
+<hdr>
+<stmt>
+Account2
+Page 1
+Balance
+Date
+<hdr>
+<stmt>
+Account1
+Page 2
+Balance
+Date

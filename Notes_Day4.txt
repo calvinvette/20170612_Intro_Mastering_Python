@@ -1,0 +1,84 @@
+Regular Expressions
+
+^\s*def(.*):\s*$
+
+^ - beginning of string
+\s - whitespace
+* - any number of the previous thing
+def - literally looking for 'def' in the string
+() - grouping
+	. - any single character will match
+	* - ^\s*def(.*):\s*$
+: - literally looking for ':' in the string
+\s - whitespace
+* - any number of the previous thing
+$ - end of string
+
+"North American Calling Plan" - US, Canada, Mexico, Carribean 
+212-555-1212
+2125551212
+212.555.1212
+1-212-555-1212
+1 (212) 555-1212
+1.212.555.1212
++1 (212) 555-1212
+
+
+\d{3}-\d{3}-\d{4}
+[0-9]{3}-[0-9]{3}-[0-9]{4}
+	Equivalent, matches 212-555-1212
+\d - any digit
+[0-9] - any digit	
+? - optional
+\d{3}[ \-\.]?\d{3}[ \-\.]?\d{4}
+	3 digits, 3 digits, then 4 digits
+	optional (single) spaces, hyphens or periods as separators
+\(?\d{3}\)?[ \-\.]?\d{3}[ \-\.]?\d{4}
+	As above, but with optional parens around the area code
+(\+?\d?[ \-\.]?)?\(?\d{3}\)?[ \-\.]?\d{3}[ \-\.]?\d{4}
+	As above, but with optional single digit country code and separators	
+
+(\+?\d{0,3})?[ \-\.]?(\(?\d{3}\))?[ \-\.]?(\d{3})[ \-\.]?(\d{4})
+
+group0 == country code (optional)
+group1 == area code (optional)
+group2 == central office
+group3 == station number
+
+
+
+
+Lab 13 until 1:00E/10:00P (ish)- 
+Let me know when you're done in the chat log.
+May take longer - we'll see.
+
+
+Lunch from 1:30-2:30E/10:30-11:30P
+
+We'll start right away w/ Ch 14 @ 2:30.
+
+
+Lab 14 + break from 3:20 until 4:10
+Let me know when you're done in the chat log.
+
+
+Lab 15 + 16 until 10:30am tomorrow
+I'll be here until 6:30 tonight and back at least at 9:30 tomorrow
+Feel free to ask questions or for help
+
+Tomorrow:
+	Chapters 17-19
+	pandas, numpy, matplotlib
+	flask or django
+	SQLAlchemy
+	Decorators (@foo)
+		@property
+		def lastName:
+	Threading
+
+
+
+
+
+
+
