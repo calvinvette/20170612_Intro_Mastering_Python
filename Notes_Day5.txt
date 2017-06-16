@@ -52,3 +52,21 @@ Lunch + Lab 18 until 3:05
 
 
 
+
+
+
+
+
+Assuming your python script's PID is 152:
+
+#/usr/bin/env python3
+import os
+import signal
+os.kill(sys.argv[1], signal.SIGINT)
+# end script
+
+
+Break + Lab 19 until 5pmE/2pmP
+
+
+

@@ -1,0 +1,13 @@
+
+
+CJ:
+
+Some of your classes extend (base) rather than (object)
+	Matt N: Page 227 (12-3) is confusing
+		We should explicitly point out that this is abstract form
+		not to be taken literally
+Mid-book - the Date string constants that are 2.x that didn't carry over to 3.x
+	(CV, review to find)
+
+
+
